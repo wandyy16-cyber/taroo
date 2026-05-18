@@ -10,7 +10,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton, ReplyKey
 
 # ========== КОНФИГУРАЦИЯ ==========
 # Замени на свой токен, который получил от @BotFather
-BOT_TOKEN = "7168480194:AAHhyS3nHgQ_9Yq7O4pcd_8X5nS9bwFPh2c"
+BOT_TOKEN = "8610098605:AAFqqSGdzFvvfzY_NaOFBP024MKCa3fANd4"
 
 # ========== ДАННЫЕ АРКАНОВ ==========
 ARCANUM_NAMES = {
